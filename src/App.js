@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
     <div className='left'>
-      <h3>Enter a markdown data</h3>
+      <h3>Enter a markdown Value</h3>
     <textarea value={markdown} onChange={handchange} />
     </div>
     
